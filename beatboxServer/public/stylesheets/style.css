@@ -1,0 +1,92 @@
+
+#content {
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#messages {
+	height: 300px;
+	overflow: auto;
+	background-color: #eee;
+	margin-bottom: 1em;
+	margin-right: 10px;
+}
+
+
+.box{
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+	}
+
+
+	span {cursor:pointer; }
+	.number{
+		margin:0px;
+	}
+	.minus, .plus{
+		width:20px;
+		height:20px;
+		background:#f2f2f2;
+		border-radius:4px;
+		padding:8px 5px 8px 5px;
+		border:1px solid #ddd;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+	}
+	input{
+		height:34px;
+  width: 100px;
+  text-align: center;
+  font-size: 26px;
+		border:1px solid #ddd;
+		border-radius:4px;
+  display: inline-block;
+  vertical-align: middle;
+	}
+
+
+	span {cursor:pointer; }
+	.number1{
+		margin:0px;
+	}
+	.minus1, .plus1{
+		width:20px;
+		height:20px;
+		background:#f2f2f2;
+		border-radius:4px;
+		padding:8px 5px 8px 5px;
+		border:1px solid #ddd;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+	}
+	input{
+		height:34px;
+  width: 100px;
+  text-align: center;
+  font-size: 26px;
+		border:1px solid #ddd;
+		border-radius:4px;
+  display: inline-block;
+  vertical-align: middle;
+	}
+		
+	.box1{
+		width: 300px;
+		height: 100px;
+		border: 1px solid black;
+		}
+#error-box { display: none;
+	width: 650px;
+	height: 100px;
+	border: 1px solid black;
+}
+
+#error-box1 { display: none;
+	width: 650px;
+	height: 100px;
+	border: 1px solid black;
+}

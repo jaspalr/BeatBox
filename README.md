@@ -2,7 +2,7 @@
 Plays two different beats using the asound library on a BeagleBone \
 Uses a web client and joystick to cycle between different beats \
 Volume and tempo can be changed using the web client or joystick \
-Different drum sounds can be played by using the accelerometer on the BeagleBone or the web client \
+Different drum sounds can be played by using the accelerometer on the BeagleBone or the web client 
 
 ## To run:
  &nbsp; &nbsp; &nbsp; Type "Make" into the host's terminal \

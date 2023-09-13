@@ -9,7 +9,7 @@ Different drum sounds can be played by using the accelerometer on the BeagleBone
  &nbsp; &nbsp; &nbsp; On the BeagleBone type “cd /mnt/remote/myApps/” \
  &nbsp; &nbsp; &nbsp; Then "./wave_player"
 ### To Run the Webserver:
-&nbsp; &nbsp; &nbsp; Type “cd /mnt/remote/node/beatbox-copy” on the BeagleBone
+&nbsp; &nbsp; &nbsp; Type “cd /mnt/remote/node/beatbox-copy” on the BeagleBone \
 &nbsp; &nbsp; &nbsp; Then "node server.js"
 
 ## Video Demo
